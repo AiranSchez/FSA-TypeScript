@@ -2,7 +2,7 @@
 
 This template includes everything needed to run a project with Typescript and testing with Jest, Babel and Node configured.
 
-## ¿Which technologies do I use?
+## Which technologies do I use?
 | Name | Details |
 |--------|----------|
 | ![Typescript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg) | Boosted JavaScript 😎 |
